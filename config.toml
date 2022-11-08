@@ -1,4 +1,4 @@
-baseURL = "http://ks.laphel.com/"
+baseURL = "https://kicks.laphel.com/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
